@@ -1,5 +1,5 @@
-# Simple Landing Page
-A landing page for an energy company developed in HTML, Tailwind CSS with a little spice of JavaScript.
+# Simple Responsive Landing Page
+A mobile-first landing page for an energy company developed in HTML, Tailwind CSS with a little spice of JavaScript.
 
 > Landing page link:  \
 `https://landing-page-five.vercel.app`
